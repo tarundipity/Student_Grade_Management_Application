@@ -1,6 +1,7 @@
 # Student Grade Management Application
 
-**Overview:**
+## Overview:
+
 “Student Grade Management Application” is used to assist faculty effectively manage and analyze students’ grades. Through this application, you can import data from a database and create reports that contain important information. Not only this, but with the click of a button you can see the class average. You can also see a list of courses your students are taking and get a class list of students that are enrolled in those classes. 
 
 Let’s break it down:
@@ -12,7 +13,8 @@ Once you have clicked that button, you can this main application:
 
  ![image](https://github.com/user-attachments/assets/2c6527c3-ea3e-478a-8fa7-144366136782)
 
-**Features:**
+## Features:
+
 *Continue Button*: Once you have clicked on a optionbutton, press the continue button. 
 
 *Import Data*: Before you can begin analyzing, make sure to import your data file. Don’t worry if you forget, the program reminds you if you press continue without a file attached. If you select the wrong file, the program notifies you as well.
